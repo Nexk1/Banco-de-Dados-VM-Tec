@@ -1,3 +1,4 @@
+#Rafael Duartes N-25, Luan Skovronsky N-18, Leonardo de Moura N-17, Bianca Caroline N-08
 escolha = 0
 escolha2 = 0
 enquanto = 0
